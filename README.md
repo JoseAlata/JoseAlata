@@ -1,7 +1,7 @@
-### Hi there 👋
+<h3 align="center"> ¡Hey👋! Hola! Soy Jose Alata.</h1>
 
 <!--
-**JoseAlata/JoseAlata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Jragx/Jragx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<!-- Language and Tools -->
+
+<h3 align="left">Tecnologías conocidas</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,react,vite,vscode,git,github&theme=dark)](https://skillicons.dev)
